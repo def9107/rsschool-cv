@@ -32,7 +32,7 @@ HTML, CSS, SASS, BEM, basic JS, basic GIT, Photoshop, Avocode, working in VSCode
 [WebDevProject](https://def9107.github.io/webDevProject/)
 
 ## Education
-HTMLAcademy, learn.javascript.ru, githowto.com, CodeWars, w3schools.com, Glo Academy
+[HTMLAcademy](https://htmlacademy.ru/), [learn.javascript.ru](http://learn.javascript.ru/), [githowto.com](https://githowto.com/), [CodeWars](https://www.codewars.com), [w3schools.com](https://www.w3schools.com/), [Glo Academy](https://www.youtube.com/channel/UCVswRUcKC-M35RzgPRv8qUg), [Flexbox Defence](http://www.flexboxdefense.com/), [Grid Garden](http://cssgridgarden.com/#ru)
 
 ## Languages
 Language | Skills
