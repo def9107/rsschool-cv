@@ -1,8 +1,11 @@
 # Natalia Muzyka
 ### young padawan
 :phone: +380976112759
+
 :e-mail: <muzyka9107@gmail.com>
+
 :houses: Cherkasy, Ukraine
+
 :octocat: def9107.github.io
 
 :woman_technologist: 27 years old
