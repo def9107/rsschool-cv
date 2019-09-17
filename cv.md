@@ -16,4 +16,28 @@ My first job was a sales assistant in a cellphone store. That was a great time o
 My:
 * most important goal is **self-actualization**
 * strong suit is **curiosity**
-* weakness is *indiscipline* and **I'm working on it!**
+* weakness is *indiscipline* and **I'm working on it!** :sweat_smile:
+
+## Skills
+HTML, CSS, SASS, BEM, basic JS, basic GIT, Photoshop, Avocode, working in VSCode
+
+## Experience
+[My first projects](https://github.com/def9107/def9107.github.io/blob/master/README.md)
+
+[First game on JS](https://def9107.github.io/js-lessons/hangman/)
+
+[Profile in CodeWars](https://www.codewars.com/users/def9107)
+
+## Latest code examples
+[WebDevProject](https://def9107.github.io/webDevProject/)
+
+## Education
+HTMLAcademy, learn.javascript.ru, githowto.com, CodeWars, w3schools.com, Glo Academy
+
+## Languages
+Language | Skills
+---|---
+Ukrainian | :star: :star: :star: :star: :star:
+Russian | :star: :star: :star: :star:
+English | :star: :star:
+Italian | :star:
