@@ -36,6 +36,9 @@ HTML, CSS, SASS, BEM, basic JS, basic GIT, Photoshop, Avocode, working in VSCode
 
 ## Languages
 Ukrainian 5/5
+
 Russian 4/5
+
 English 3/5
+
 Italian 1/5
