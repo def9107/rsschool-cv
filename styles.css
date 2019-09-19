@@ -1,0 +1,66 @@
+body {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 18px;
+  line-height: 1.4;
+  color: rgb(29, 29, 29);
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.main-info {
+  min-height: 220px;
+  border-bottom: 2px solid rgb(29, 29, 29, 30%);
+}
+
+.myphoto {
+  float: right;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  border-radius: 50%;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(0, 136, 0);
+}
+
+a:active {
+  color: rgba(1, 107, 1, 0.616);
+}
+
+.language-scale {
+  width: 200px;
+  height: 20px;
+  border: 2px solid rgb(155, 155, 155);
+  border-radius: 5%;
+  background-color: lightgrey;
+}
+
+.score {
+  height: 100%;
+  background-color: rgb(103, 190, 103);
+}
+
+.ua {
+  width: 100%;
+}
+
+.ru {
+  width: 80%;
+}
+
+.en {
+  width: 60%;
+}
+
+.it {
+  width: 20%;
+}
